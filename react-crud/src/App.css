@@ -1,0 +1,35 @@
+.app {
+  position: relative;
+  max-width: 1200px;
+  padding: 77px;
+}
+a.btn {
+  font-size: 22px;
+  font-weight: 700;
+}
+h2 {
+  font-size: 37px;
+}
+.app input {
+  width: 100%;
+  padding: 14px 17px 14px 10px;
+  font-size: 22px;
+}
+.app label{
+  font-size: 22px;
+}
+input[type="submit"] {
+  width: auto;
+  background-color: #ff9800;
+  color: white;
+  border: 0;
+  padding: 10px 17px 10px 17px;
+}
+p{
+  font-size: 22px;
+}
+p.btn.default-btn {
+  color: #f44336;
+  font-weight: 700;
+  text-decoration: underline;
+}
